@@ -1,0 +1,19 @@
+h1{
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px #500eeb;
+
+}
+img {
+    float: left;
+    
+    margin: 0px 0px 15px 20px;
+  }
+  p{
+    font-size: large;
+  }
+  footer{
+    text-align: center;
+    color: blue;
+  }
